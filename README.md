@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alineromano-intech
+- 👋 Hi, I’m @Alineromano-indata
 - 👀 I’m interested in ... data and the tech world 
 - 🌱 I’m currently learning ... data analitics on Google 
 - 💞️ I’m looking to collaborate on ... many projects
